@@ -21,7 +21,7 @@ Current list of QGIS user groups
 * `QGIS Portugal - contact: João Gaspar <http://qgis.pt/>`_
 * `QGIS UK (Scotland) - contact: Ross McDonald <https://qgis.uk/>`_
 * `QGIS user group Switzerland - contact: Hans-Jörg Stark <https://qgis.ch/>`_
-* `QGIS UK (Wales/Cymru) - contact: Kevin Williams <http://qgis.uk/>`_
+* `QGIS UK (Wales/Cymru) - contact: Kevin Williams <http://qgis.cymru/>`_
 * `NIWA QGIS user group (New Zealand) - contact: Brent Wood --> REMOVED in 2018 <https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group>`_
 
 
